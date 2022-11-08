@@ -1,1 +1,1 @@
-This Tool will Wipe a ll drives connected to the computer including USB flashdrives and external Harddrives.
+This Tool will Wipe all drives connected to the computer including USB flashdrives and external Harddrives.
